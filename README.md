@@ -143,7 +143,7 @@ A aplicação consiste em auxiliar pessoas com visão subnormal, através de col
 
 ! [Fernando Fernandes](https://github.com/FernandoTasca)
 
-! [Caroline Moreno](https://github.com/carolinnemoreno/)
+! [Carolinne Moreno](https://github.com/carolinnemoreno/)
 
 ! [Eduardo Santos](https://github.com/eduardeveloper)
 
