@@ -2,7 +2,8 @@
 Grupo 17 - PROJETO INTEGRADOR: ANÁLISE DE SOLUÇÕES INTEGRADAS PARA ORGANIZAÇÕES
 # Serviços Gerais 
 
-![Serviços Gerais](![image](https://github.com/user-attachments/assets/35c83f50-1d75-4199-ab20-aa9174f6ebf6)
+![Serviços Gerais](![logo](https://github.com/user-attachments/assets/148d67de-5240-4402-8501-60615f63268c)
+)
 )
 
  
@@ -99,7 +100,7 @@ Após clonar o repositório e configurar o ambiente, execute o UWAMP. Verifique 
 
 ## 📒Como Usar/Funcionalidade 
 
-A aplicação consiste em auxiliar pessoas com visão subnormal, através de colaboração em comunidade virtual com uso de imagens, texto e audios, enviados e recebidos. Através de uma loja de aplicativos seja Android ou Ios é necessario realizar o download e instalação do App no Smartphone. Feito isso siga os seguintes passos: 
+A aplicação consiste em auxiliar pessoas que necessitem realizar determinadas atividades ou serviços sejam eles desde uma faxina a manutenções na parte eletrica do imovel, serviços de contrução civil (alvenaria, pintura, hidraulica), jardinagem, instalação ou substituição de equipamentos e etc,  atraves do auxilio de uma plataforma que permita criar solicitações para esses serviços, e que outras pessoas possam atender essas solicitaçoes mediante um acordo entres as partes envolvidas, onde sao combinados valor a ser pago pelo serviço prestado, prazos e data para realização.Através de uma loja de aplicativos seja Android ou Ios é necessario realizar o download e instalação do App no Smartphone. Feito isso siga os seguintes passos: 
  
 
 - [x] Cadastro de Usuarios 
@@ -114,16 +115,16 @@ A aplicação consiste em auxiliar pessoas com visão subnormal, através de col
 
 ## 📲Layout
 
-![Login e cadastro](![image](https://github.com/user-attachments/assets/68e80f1f-195e-43b3-adea-fd51835b322f)
-)
-![image](https://github.com/user-attachments/assets/1384a804-11fa-4dee-bf1a-d3c4c22a9f25)
-
-![image](https://github.com/user-attachments/assets/e5c9fa48-ecb5-4af9-affa-66d86fc28360)
-
-![image](https://github.com/user-attachments/assets/18047ca4-f60a-46e1-bc5f-4c301d4c03e6)
+![Login e Cadastro](https://github.com/user-attachments/assets/b55859fc-afd5-4680-a110-295b58ccdcef)
 
 
+![pintor](https://github.com/user-attachments/assets/cd80d4ea-ab72-4980-8845-d6187c2af3ad)
 
+![eletricista](https://github.com/user-attachments/assets/ccc5df56-2e8b-4796-aa9f-df78b4b102d8)
+
+![jardineira](https://github.com/user-attachments/assets/d7662df0-d095-4706-97e8-9e7abd2e0b9e)
+
+![Jornada do usuario](https://github.com/user-attachments/assets/ca1be828-6ccc-4435-8aa7-046ffb987e3d)
 
 
 ## 💽Demonstração 
@@ -132,7 +133,7 @@ A aplicação consiste em auxiliar pessoas com visão subnormal, através de col
 
 
 ## ⚙️Tecnologias Utilizadas
-1. Figma](https://www.figma.com/proto/9KyGzx7IiFnoJNYtRGQwoc/App%3A-Al%C3%A9m-da-Vis%C3%A3o?type=design&node-id=29-1204&t=RzATpEwOtVH4TThU-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A5)
+1. [Figma] https://www.figma.com/
 
 2. [Vs.Code](https://www.bing.com/ck/a?!&&p=8ea535fa4cfed80aJmltdHM9MTcxMDcyMDAwMCZpZ3VpZD0wYjc0YTIzYi04M2VlLTYyMmItMTcxMC1iMTljODJjNDYzZWImaW5zaWQ9NTUzMA&ptn=3&ver=2&hsh=3&fclid=0b74a23b-83ee-622b-1710-b19c82c463eb&psq=vs+code&u=a1aHR0cHM6Ly9jb2RlLnZpc3VhbHN0dWRpby5jb20vRG93bmxvYWQ&ntb=1)
 
