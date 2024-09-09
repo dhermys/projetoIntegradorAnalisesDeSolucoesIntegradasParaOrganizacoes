@@ -2,9 +2,7 @@
 Grupo 17 - PROJETO INTEGRADOR: ANÁLISE DE SOLUÇÕES INTEGRADAS PARA ORGANIZAÇÕES
 # Serviços Gerais 
 
-![Serviços Gerais](![logo](https://github.com/user-attachments/assets/148d67de-5240-4402-8501-60615f63268c)
-)
-)
+![logo](https://github.com/user-attachments/assets/78d0f9d3-902d-437a-b6c2-9991727d20c4)
 
  
 
