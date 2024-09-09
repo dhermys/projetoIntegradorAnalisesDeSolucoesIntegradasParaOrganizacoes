@@ -131,7 +131,7 @@ A aplicação consiste em auxiliar pessoas que necessitem realizar determinadas 
 
 
 ## ⚙️Tecnologias Utilizadas
-1. [Figma - Prototipo] https://www.figma.com/ (https://www.figma.com/design/BD2eWc76BhYRILZ5Kxt4N3/Projeto-Integrador?node-id=0-1&t=YCjFBfTVemuE4d7d-1)
+1. [Figma - Prototipo] https://www.figma.com/design/BD2eWc76BhYRILZ5Kxt4N3/Projeto-Integrador?node-id=0-1&t=YCjFBfTVemuE4d7d-1
 
 2. [Vs.Code](https://www.bing.com/ck/a?!&&p=8ea535fa4cfed80aJmltdHM9MTcxMDcyMDAwMCZpZ3VpZD0wYjc0YTIzYi04M2VlLTYyMmItMTcxMC1iMTljODJjNDYzZWImaW5zaWQ9NTUzMA&ptn=3&ver=2&hsh=3&fclid=0b74a23b-83ee-622b-1710-b19c82c463eb&psq=vs+code&u=a1aHR0cHM6Ly9jb2RlLnZpc3VhbHN0dWRpby5jb20vRG93bmxvYWQ&ntb=1)
 
