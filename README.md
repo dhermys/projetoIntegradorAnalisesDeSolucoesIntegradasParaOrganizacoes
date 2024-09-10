@@ -122,7 +122,8 @@ A aplicação consiste em auxiliar pessoas que necessitem realizar determinadas 
 
 ![jardineira](https://github.com/user-attachments/assets/d7662df0-d095-4706-97e8-9e7abd2e0b9e)
 
-![jornada com foto](https://github.com/user-attachments/assets/8c960b62-04ef-434b-99e6-782d883a2c15)
+![image](https://github.com/user-attachments/assets/a7e2e611-701c-4755-a731-9c1942e16446)
+
 
 
 ## 💽Demonstração 
